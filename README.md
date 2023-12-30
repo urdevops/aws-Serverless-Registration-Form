@@ -30,8 +30,6 @@ Runtime: Python 3.9
 
 ## Step 5: Create API Gateway and Enable CORS
 
-## Step 6: Test the Project
-
 
 ### Enable CORS: 
 
@@ -42,12 +40,7 @@ Access-Control-Allow-Methods: POST
 
 ```
 
-## Step 5: Test the Application
+## Step 6: Test the Application
 
 
 
-Follow our tutorials here: https://www.youtube.com/@amonkincloud/videos \
-Follow our blog here: https://amonkincloud.com/ \
-Follow my personal blog here:https://dev.to/yeshwanthlm/ \
-Follow us on Instagram: https://www.instagram.com/amonkincloud/ \
-For queries write to us at: amonkincloud@gmail.com 
