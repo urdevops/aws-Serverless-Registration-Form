@@ -4,7 +4,7 @@ import boto3
 dynamodb = boto3.resource('dynamodb')
 table = dynamodb.Table('registration-table')
 
-def lambda_handler(event, context):
+lambda_handler(event, context):
     # Get request body
     print(event)
 
